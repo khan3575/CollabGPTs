@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'chatgpt',  # Ensure this is the correct app name
 ]
 
 MIDDLEWARE = [
